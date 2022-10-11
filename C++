@@ -1,0 +1,6 @@
+#include: thư viện nên dùng <bits/stdc++.h>
+int: giá trị số nguyên
+long long: giá trị lớn nhất trong c++ -2^31--> 2^31
+float: -2^63--> 2^63
+double: 10^18
+string str 
